@@ -1,13 +1,25 @@
-# Pizza Bot
+# What is this
+The first pair programming assignment during the Technigo bootcamp. 
+Assignment: **Build a Pizza Bot**.
 
-Replace this readme with your own information about your project. 
+## How We started
+We had separately done the weekly assignments and watched all the video material to prepare for the Pizza bot project. We felt as if the structure of the project was so thorough that we didn't make a separate  plan for the javascript code. We swapped driver/navigator according to the iterations in the project guide. 
+ 
+### What We struggled with and should improve for next pair programming project
+We both feel as if we should have had a timer and take small breaks through out the day. We took longer breaks for meals and such, but an additional smaller breaks would have been good. 
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+For next time this is something both of us will suggest to whoever our partner will be. 
 
-## The problem
+### What We're proud of
+TEAMWORK, we complemented each other well. We had som issues with the form at first but we managed to figure it out and be able to save the input from the user on the web page. 
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Christina is super proud over Frida and the fact that she did the CSS by herself during the evening, even tho we said that we where gonna call it a day!
+
+Frida is super proud over Christina and that she took time to explain the javascript parts in a pedagogical way, having peeked at the instructions beforehand!
+
+## If We had more time
+We would have done some cleaning in the CSS and would have liked to try to toggle so the second label and input was visible first after entering what kind of pizza the customer wanted. 
 
 ## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Pizza bot website:
+https://worldsbestpizzabot.netlify.com/
